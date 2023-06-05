@@ -8,5 +8,4 @@ Install the required packages by running
 ```
 pip install -r requirements.txt
 ```
-
-## Interface
+For Runnig this Repo: streamlit run interface.py [ARGUMENTS]
