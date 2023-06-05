@@ -1,0 +1,2 @@
+# talk_with_document_langchain
+langchain_openai
